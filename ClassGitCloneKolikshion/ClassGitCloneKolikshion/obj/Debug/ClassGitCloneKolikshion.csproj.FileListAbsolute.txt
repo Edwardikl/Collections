@@ -1,0 +1,7 @@
+E:\C#\ClassGitCloneKolikshion\ClassGitCloneKolikshion\bin\Debug\ClassGitCloneKolikshion.exe.config
+E:\C#\ClassGitCloneKolikshion\ClassGitCloneKolikshion\bin\Debug\ClassGitCloneKolikshion.exe
+E:\C#\ClassGitCloneKolikshion\ClassGitCloneKolikshion\bin\Debug\ClassGitCloneKolikshion.pdb
+E:\C#\ClassGitCloneKolikshion\ClassGitCloneKolikshion\obj\Debug\ClassGitCloneKolikshion.csproj.AssemblyReference.cache
+E:\C#\ClassGitCloneKolikshion\ClassGitCloneKolikshion\obj\Debug\ClassGitCloneKolikshion.csproj.CoreCompileInputs.cache
+E:\C#\ClassGitCloneKolikshion\ClassGitCloneKolikshion\obj\Debug\ClassGitCloneKolikshion.exe
+E:\C#\ClassGitCloneKolikshion\ClassGitCloneKolikshion\obj\Debug\ClassGitCloneKolikshion.pdb
